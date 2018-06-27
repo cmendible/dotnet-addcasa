@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/fs8a9ffavahitcya?svg=true)](https://ci.appveyor.com/project/cmendible/dotnet-addcasa)
+
 # dotnet-addcasa
 
 A simple .NET Core tool to enable CodeAnalysis and StyleCop in your projects.
