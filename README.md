@@ -2,7 +2,7 @@
 
 A simple .NET Core tool to enable CodeAnalysis and StyleCop in your projects.
 
-**Note:** [.NET Core SDK 2.1.300-rc1](https://www.microsoft.com/net/download/dotnet-core/sdk-2.1.300-rc1) or higher is needed.
+**Note:** [.NET Core SDK 2.1.300](https://www.microsoft.com/net/download/dotnet-core/sdk-2.1.300) or higher is needed.
 
 ## Installation
 
